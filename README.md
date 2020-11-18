@@ -2,7 +2,7 @@
 Approximation of points by a polynomial of arbitrary power
 
 
-## Usage
+# Usage
 
 ## Main functions:
 1. `approximate`
